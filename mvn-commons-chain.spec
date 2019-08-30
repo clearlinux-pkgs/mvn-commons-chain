@@ -4,7 +4,7 @@
 #
 Name     : mvn-commons-chain
 Version  : 1.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/commons-chain/commons-chain/1.1/commons-chain-1.1.jar
 Source0  : https://repo1.maven.org/maven2/commons-chain/commons-chain/1.1/commons-chain-1.1.jar
 Source1  : https://repo1.maven.org/maven2/commons-chain/commons-chain/1.1/commons-chain-1.1.pom
